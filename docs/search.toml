@@ -6,3 +6,8 @@ base_directory = "/Users/caesar/repos/caesarb-34/caesarb-34.github.io/docs"
 path = "pages/my-first-entry.html"
 url = "/pages/my-first-entry.html"
 title = "My first entry"
+
+[[input.files]]
+path = "pages/day-2.html"
+url = "/pages/day-2.html"
+title = "Day 2"
