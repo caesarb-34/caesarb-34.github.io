@@ -3,11 +3,11 @@ html_selector = "main"
 base_directory = "/Users/caesar/repos/caesarb-34/caesarb-34.github.io/docs"
 
 [[input.files]]
-path = "pages/my-first-entry.html"
-url = "/pages/my-first-entry.html"
-title = "My first entry"
+path = "pages/about-me.html"
+url = "/pages/about-me.html"
+title = "About Me"
 
 [[input.files]]
-path = "pages/day-2.html"
-url = "/pages/day-2.html"
-title = "Day 2"
+path = "pages/blog.html"
+url = "/pages/blog.html"
+title = "Blog"
