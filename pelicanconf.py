@@ -4,6 +4,7 @@ SITEURL = ''
 
 PATH = 'content'
 OUTPUT_PATH = "docs"
+PLUGINS = []
 
 TIMEZONE = 'America/Los_Angeles'
 
