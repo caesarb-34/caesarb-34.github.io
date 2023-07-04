@@ -1,6 +1,6 @@
 Title: Blog
-Date: 2023-06-22
+Date: 2023-07-04
 Category: Python
 Tags: pelican
 
-blah blah
+Happy 4th!
