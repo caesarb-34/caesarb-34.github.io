@@ -3,9 +3,11 @@ Date: 2023-06-26
 Category: Python
 Tags: pelican
 
-Projects here
-1. www.cookingwithcompanypdx.com
+# Project 1: www.cookingwithcompanypdx.com (Python, Django)
+![testimage](../images/self/CookingWebsite.jpeg)
 
-<Cooking Website here>
+# Project 2: Project Spotlight (React, Typescript)
 
-2. Project Spotlight
+
+- Created a custom hook in React using a toggle for dark and light theme
+- Used Material UI for styling
