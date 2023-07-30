@@ -4,3 +4,4 @@ Category: resume
 Tags: resume, work
 
 ![resume](../images/self/Caesar Bernardo SAMPLE CV HQ.jpg)
+
