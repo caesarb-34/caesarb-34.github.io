@@ -1,6 +1,6 @@
 Title: Projects
 Date: 2023-06-26
-Category: Python
+Category: Projects
 Tags: pelican
 
 # Project 1: www.cookingwithcompanypdx.com (Python, Django)
